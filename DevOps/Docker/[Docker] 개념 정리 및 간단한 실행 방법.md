@@ -13,4 +13,4 @@ docker-compose down    # 중지 및 삭제
 ### 예시<br>  
 1. 프로젝트 루트폴더에 docker를 설치  
 1. docker-compose.yml을 셋팅한 후 올리면 컨테이너 실행 완료  
-![IMAGE](https://raw.githubusercontent.com/nogi-bot/resources/main/gwkcareer/images/48d25e72-ed1b-4f68-87c6-19d0fc5db950-image.png)  
+![IMAGE](https://raw.githubusercontent.com/nogi-bot/resources/main/gwkcareer/images/61fd6019-7032-4b67-9868-53c7e0a0d064-image.png)  
